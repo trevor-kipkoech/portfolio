@@ -1,60 +1,62 @@
 🌐 Personal Portfolio
 
 Welcome to my personal portfolio repository.
-This portfolio showcases my skills, projects, and experience in building secure, database-driven web applications and modern web solutions.
+This portfolio highlights my skills, projects, and experience in building secure, scalable, and database-driven web applications.
 
 👋 About Me
 
-Hi! I’m Trevor Kipkoech, a motivated and detail-oriented Web Developer with strong experience in PHP, SQL, CodeIgniter, and Supabase.
+Hi! I’m Trevor Kipkoech, a passionate and detail-oriented Web Developer specializing in backend development and modern web solutions.
 
-I specialize in developing dynamic, data-driven applications that focus on performance, security, and scalability. I enjoy working on both backend logic and frontend integration, ensuring systems are reliable, user-friendly, and easy to maintain.
+I have strong experience working with PHP, SQL, CodeIgniter, and Supabase, where I focus on building dynamic, secure, and high-performance applications.
 
-Using PHP and CodeIgniter, I build structured MVC applications with clean architecture and reusable components. I design and manage relational databases using SQL, writing optimized queries and enforcing data integrity. With Supabase, I integrate modern backend services such as authentication, real-time databases, and cloud storage to speed up development while maintaining best practices.
+I enjoy developing systems that are not only functional but also:
 
-I am passionate about continuous learning and applying technology to solve real-world problems.
+Reliable
+Scalable
+Easy to maintain
+
+Using CodeIgniter (MVC architecture), I build well-structured applications with clean and reusable code. I design and manage relational databases using MySQL and PostgreSQL, ensuring optimized queries and strong data integrity.
+
+With Supabase, I integrate modern backend capabilities such as:
+
+Authentication
+Real-time databases
+Cloud storage
+
+This allows me to develop faster while maintaining best practices.
+
+I am continuously learning and driven to use technology to solve real-world problems and build impactful solutions.
 
 🛠️ Technologies & Tools
-
-PHP
-
-SQL (MySQL / PostgreSQL)
-
-CodeIgniter (MVC Framework)
-
-Supabase (Auth, Database, Storage)
-
-HTML5 & CSS3
-
-JavaScript
-
-Git & GitHub
-
-VS Code
-
+Backend: PHP, CodeIgniter
+Database: MySQL, PostgreSQL (SQL)
+Frontend: HTML5, CSS3, JavaScript
+Backend Services: Supabase (Auth, Database, Storage)
+Tools: Git, GitHub, VS Code
 📂 Featured Projects
-
-Some of the projects featured in this portfolio include:
-
 🔐 Authentication & Dashboard Systems
-Secure login systems with session handling, validation, and role-based access.
-
+Secure login systems
+Session management
+Role-based access control
+Input validation & security features
 🏥 Hospital Website & Management Templates
-Multi-page responsive websites with structured layouts and clean UI.
-
+Responsive multi-page websites
+Clean UI/UX design
+Structured layouts for real-world use
 🛍️ Koech Clothing Brand Platform
-A modern web application integrating frontend design with Supabase backend services.
-
+Full-stack web application
+Integrated Supabase backend
+Modern UI with dynamic data handling
 📊 Database-Driven Applications
-Projects focused on CRUD operations, data validation, and optimized SQL queries.
-
+CRUD operations (Create, Read, Update, Delete)
+Optimized SQL queries
+Data validation and integrity enforcement
 ✨ Portfolio Features
-
-Clean and maintainable code structure
-
+Clean and maintainable code
 MVC-based backend architecture
-
 Secure form handling and validation
+Responsive and user-friendly UI
+Scalable and efficient database design
+🚀 Closing Statement
 
-Responsive and accessible UI
-
-Scalable database design
+I am committed to building secure, efficient, and scalable web applications while continuously improving my skills and staying updated with modern technologies.

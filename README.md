@@ -1,81 +1,68 @@
 🌐 Personal Portfolio
 
-Welcome to my personal portfolio repository.
-This portfolio showcases my expertise in building secure, scalable, and database-driven web applications, with a strong focus on backend development and system architecture.
+Welcome to my portfolio repository.
+This portfolio showcases my ability to design and build secure, scalable, and production-ready web applications, with a strong focus on backend engineering, database architecture, and system design.
 
 👋 About Me
 
-Hi, I’m Trevor Kipkoech — a passionate and detail-oriented Web Developer specializing in backend development and modern web technologies.
+Hi, I’m Trevor Kipkoech — a Backend Web Developer focused on building robust systems that solve real-world problems.
 
-I have practical experience working with PHP, SQL, CodeIgniter, and Supabase, where I build dynamic, secure, and high-performance applications designed for real-world use.
+I specialize in developing secure, efficient, and scalable applications using modern backend technologies and structured development practices.
 
-I focus on creating systems that are:
+I have hands-on experience with:
 
-✔ Reliable — consistent performance and stability
-✔ Scalable — built to grow with user demands
-✔ Maintainable — clean, structured, and reusable code
+PHP & CodeIgniter (MVC Architecture)
+MySQL & PostgreSQL
+Supabase (Backend-as-a-Service)
 
-Using CodeIgniter (MVC architecture), I develop well-organized applications with clear separation of concerns. I design and manage relational databases using MySQL and PostgreSQL, ensuring efficient queries, strong data integrity, and optimized performance.
+I don’t just build applications — I design systems that are reliable under load, secure by design, and easy to maintain.
 
-With Supabase, I leverage modern backend services such as:
+💡 Engineering Principles
 
-🔐 Authentication & user management
-⚡ Real-time database functionality
-☁️ Cloud storage integration
+My development approach is guided by:
 
-This enables faster development while maintaining industry best practices.
-
-I am continuously learning and driven to use technology to solve real-world problems and build impactful digital solutions.
-
-🛠️ Technologies & Tools
-⚙️ Backend Development
+🔐 Security First — Protection against XSS, SQL Injection, and unsafe inputs
+⚙️ Scalability — Systems designed to handle growth and increased demand
+🧩 Modularity — Clean separation using MVC architecture
+📈 Performance Optimization — Efficient queries and backend logic
+🔄 Maintainability — Clean, readable, and reusable code
+🛠️ Tech Stack
+⚙️ Backend
 PHP
 CodeIgniter (MVC Framework)
-🗄️ Database Management
+🗄️ Databases
 MySQL
-PostgreSQL (SQL)
-🎨 Frontend Development
+PostgreSQL
+🎨 Frontend
 HTML5
 CSS3
 JavaScript
 ☁️ Backend Services
-Supabase (Authentication, Database, Storage)
-🔧 Tools & Workflow
-Git
-GitHub
+Supabase
+Authentication
+Real-time database
+Cloud storage
+🔧 Tools
+Git & GitHub
 VS Code
 📂 Featured Projects
-🔐 Authentication & Dashboard Systems
-Secure login and registration systems
+🔐 Authentication & Access Control Systems
+Secure login & registration systems
 Session-based authentication
-Role-based access control (RBAC)
-Input validation and protection against common vulnerabilities (XSS, SQL Injection)
-🏥 Hospital Website & Management Templates
-Fully responsive multi-page healthcare websites
-Clean, modern, and professional UI/UX
-Structured layouts ready for real-world deployment
+Role-Based Access Control (RBAC)
+Input validation & sanitization
+Protection against common web vulnerabilities
+🏥 Hospital Management & Website Systems
+Responsive multi-page healthcare platforms
+Clean and professional UI/UX
+Scalable structure for real-world deployment
 🛍️ Koech Clothing Brand Platform
 Full-stack fashion web application
-Supabase-powered backend integration
-Dynamic product handling with modern UI
-Scalable architecture for future e-commerce features
-📊 Database-Driven Applications
-Full CRUD functionality (Create, Read, Update, Delete)
-Optimized SQL queries for performance
-Data validation and integrity enforcement
-Structured relational database design
-✨ Portfolio Highlights
-Clean, readable, and maintainable code
-Strong use of MVC architecture
-Secure form handling and validation
-Responsive and user-friendly interfaces
-Efficient and scalable database design
-Real-world project implementation experience
-🚀 Professional Focus
-
-I am focused on:
-
-Building secure backend systems
-Designing efficient databases
-Developing scalable web applications
-Applying best practices in software development
+Supabase-powered backend
+Dynamic product and content management
+Designed for future e-commerce scalability
+📊 Database-Driven Systems
+Full CRUD functionality
+Optimized SQL queries
+Strong relational database design
+Data integrity and validation enforcement
